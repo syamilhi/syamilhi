@@ -24,8 +24,8 @@ I design and build full apps, then ship and run them on the cloud.
 
 ## Currently
 
-Building : -
-Busy on Competition
+- Building : -
+- Active on Competition
 
 ## My Website
 
