@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Syamil Hadyan 👋
 
-<!--
-**syamilhi/syamilhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Engineer · CI/CD & Cloud**
 
-Here are some ideas to get you started:
+I design and build full apps, then ship and run them on the cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Full Stack**
+- Frontend: JavaScript, TypeScript, React
+- Backend: Node.js, REST APIs
+- Databases: PostgreSQL, MySQL, Firebase/Firestore
+
+**Cloud**
+- GCP: hosting, monitoring, bill optimization, and running production apps end to end
+
+**DevOps**
+- CI/CD: GitHub Actions, Cloud Build, automated build, test and deploy
+- Containers: Docker, Docker Compose, Kubernetes basics
+- Infrastructure as Code: Terraform
+- Reliability (SRE): monitoring, incident response, SLIs/SLOs, postmortems
+- Systems: Linux, shell scripting, Nginx
+
+
+## Currently
+
+Building : -
+Busy on Competition
+
+## My Website
+
+[syamilhi.dev](https://syamilhi.dev)
